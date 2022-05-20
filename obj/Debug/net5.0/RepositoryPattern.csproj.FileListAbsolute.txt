@@ -1,0 +1,16 @@
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.exe
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.deps.json
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.runtimeconfig.json
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.runtimeconfig.dev.json
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.dll
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\ref\RepositoryPattern.dll
+C:\Users\casper\Desktop\c#\RepositoryPattern\bin\Debug\net5.0\RepositoryPattern.pdb
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.AssemblyInfo.cs
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.dll
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\ref\RepositoryPattern.dll
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.pdb
+C:\Users\casper\Desktop\c#\RepositoryPattern\obj\Debug\net5.0\RepositoryPattern.genruntimeconfig.cache
